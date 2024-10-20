@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\josep\\source\\repos\\Project_Alura_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA91A324-9859-48CA-8748-B625FB307E28}|Project_Alura_2\\Project_Alura_2.csproj|c:\\users\\josep\\source\\repos\\project_alura_2\\project_alura_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA91A324-9859-48CA-8748-B625FB307E28}|Project_Alura_2\\Project_Alura_2.csproj|solutionrelative:project_alura_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA91A324-9859-48CA-8748-B625FB307E28}|Project_Alura_2\\Project_Alura_2.csproj|c:\\users\\josep\\source\\repos\\project_alura_2\\project_alura_2\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA91A324-9859-48CA-8748-B625FB307E28}|Project_Alura_2\\Project_Alura_2.csproj|solutionrelative:project_alura_2\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA91A324-9859-48CA-8748-B625FB307E28}|Project_Alura_2\\Project_Alura_2.csproj|c:\\users\\josep\\source\\repos\\project_alura_2\\project_alura_2\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA91A324-9859-48CA-8748-B625FB307E28}|Project_Alura_2\\Project_Alura_2.csproj|solutionrelative:project_alura_2\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 195,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 195,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Musica.cs",
+              "DocumentMoniker": "C:\\Users\\josep\\source\\repos\\Project_Alura_2\\Project_Alura_2\\Musica.cs",
+              "RelativeDocumentMoniker": "Project_Alura_2\\Musica.cs",
+              "ToolTip": "C:\\Users\\josep\\source\\repos\\Project_Alura_2\\Project_Alura_2\\Musica.cs",
+              "RelativeToolTip": "Project_Alura_2\\Musica.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAA5wBkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T01:54:09.646Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Album.cs",
+              "DocumentMoniker": "C:\\Users\\josep\\source\\repos\\Project_Alura_2\\Project_Alura_2\\Album.cs",
+              "RelativeDocumentMoniker": "Project_Alura_2\\Album.cs",
+              "ToolTip": "C:\\Users\\josep\\source\\repos\\Project_Alura_2\\Project_Alura_2\\Album.cs",
+              "RelativeToolTip": "Project_Alura_2\\Album.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T23:16:10.702Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\josep\\source\\repos\\Project_Alura_2\\Project_Alura_2\\Program.cs",
+              "RelativeDocumentMoniker": "Project_Alura_2\\Program.cs",
+              "ToolTip": "C:\\Users\\josep\\source\\repos\\Project_Alura_2\\Project_Alura_2\\Program.cs",
+              "RelativeToolTip": "Project_Alura_2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T01:54:48.051Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

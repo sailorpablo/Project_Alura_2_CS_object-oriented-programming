@@ -1,0 +1,14 @@
+C:\Users\josep\source\repos\Project_Alura_2\Project_Alura_2\bin\Debug\net8.0\Project_Alura_2.exe
+C:\Users\josep\source\repos\Project_Alura_2\Project_Alura_2\bin\Debug\net8.0\Project_Alura_2.deps.json
+C:\Users\josep\source\repos\Project_Alura_2\Project_Alura_2\bin\Debug\net8.0\Project_Alura_2.runtimeconfig.json
+C:\Users\josep\source\repos\Project_Alura_2\Project_Alura_2\bin\Debug\net8.0\Project_Alura_2.dll
+C:\Users\josep\source\repos\Project_Alura_2\Project_Alura_2\bin\Debug\net8.0\Project_Alura_2.pdb
+C:\Users\josep\source\repos\Project_Alura_2\Project_Alura_2\obj\Debug\net8.0\Project_Alura_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josep\source\repos\Project_Alura_2\Project_Alura_2\obj\Debug\net8.0\Project_Alura_2.AssemblyInfoInputs.cache
+C:\Users\josep\source\repos\Project_Alura_2\Project_Alura_2\obj\Debug\net8.0\Project_Alura_2.AssemblyInfo.cs
+C:\Users\josep\source\repos\Project_Alura_2\Project_Alura_2\obj\Debug\net8.0\Project_Alura_2.csproj.CoreCompileInputs.cache
+C:\Users\josep\source\repos\Project_Alura_2\Project_Alura_2\obj\Debug\net8.0\Project_Alura_2.dll
+C:\Users\josep\source\repos\Project_Alura_2\Project_Alura_2\obj\Debug\net8.0\refint\Project_Alura_2.dll
+C:\Users\josep\source\repos\Project_Alura_2\Project_Alura_2\obj\Debug\net8.0\Project_Alura_2.pdb
+C:\Users\josep\source\repos\Project_Alura_2\Project_Alura_2\obj\Debug\net8.0\Project_Alura_2.genruntimeconfig.cache
+C:\Users\josep\source\repos\Project_Alura_2\Project_Alura_2\obj\Debug\net8.0\ref\Project_Alura_2.dll
